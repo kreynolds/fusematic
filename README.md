@@ -11,3 +11,10 @@ In order to use this, the delrin nut will have to be turned so that the flange f
 
 ![Z Isolator Example](images/kreynolds-z-isolator.jpg "Z Isolator installation example")
 
+## Modified X Endstop Mount
+
+This modification puts the switch trigger right where the v-wheel rolls and also adds another 10mm or so to the X axis.
+Depending on your glass you may or may not be able to actually take advantage of it.
+
+![X Endstop Mount](images/kreynolds-x-endstop-mount.jpg "X Endstop Mount")
+
