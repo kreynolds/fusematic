@@ -1,6 +1,7 @@
 # Fusematic 3D Printer
 
-It's awesome, [buy one](http://store.makerstoolworks.com/printers-kits/fusematic-3d-printer/). Seriously. Right now. Anything even remotely close to the price range is a rattle trap.
+It's awesome, [buy one](http://store.makerstoolworks.com/printers-kits/fusematic-3d-printer/). Seriously. Right now.
+Anything even remotely close to the price range is a rattle trap, or slower, or smaller, or some combination.
 
 
 
