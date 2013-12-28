@@ -8,6 +8,7 @@ Anything even remotely close to the price range is a rattle trap, or slower, or 
 
 The modification includes a new Z endstop, a new isolator, and an optional 'foot' for the adjustment screw.
 In order to use this, the delrin nut will have to be turned so that the flange faces downwards.
+Additionally, it rotates the screw holes by 30&deg; to create more clearance for the X extrusion on the delrin nut.
 
 ![Z Isolator Example](images/kreynolds-z-isolator.jpg "Z Isolator installation example")
 
