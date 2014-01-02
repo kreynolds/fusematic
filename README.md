@@ -12,6 +12,12 @@ Additionally, it rotates the screw holes by 30&deg; to create more clearance for
 
 ![Z Isolator Example](images/kreynolds-z-isolator.jpg "Z Isolator installation example")
 
+## Custom 40mm Fan Shroud
+
+This fan shroud has been designed just for the fusematic. It features a big 40mm size, clearance for the wheels on the X axis, holes resized for M3 screws, and a retaining clip on the top to prevent the awful rattle horrible you get with the stock e3d shroud.
+![Fan Shroud](images/kreynolds_e3d_40mm_fan_shroud.jpg "Fan shroud")
+
+
 ## Modified X Endstop Mount
 
 This modification puts the switch trigger right where the v-wheel rolls and also adds another 10mm or so to the X axis.
