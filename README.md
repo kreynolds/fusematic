@@ -35,3 +35,9 @@ This modification is intended to solve 3 problems.
 
 ![Z Sprung Bearing Mount](images/kreynolds-z-sprung-bearing-mount.jpg "Z Sprung Bearing Mount")
 
+## Lower Filament Guide
+
+Stock lower filament guide
+
+![Lower Filament Guide](images/lower-filament-guide.jpg "Lower Filament Guide")
+
